@@ -26,6 +26,6 @@ We explored three models (Logistic Regression, K-Nearest Neighbors (KNN), and Ra
 ---
 
 ## 📂 Repository Structure
-├── churn_model.py # Main ML pipeline (training, evaluation)
-├── churn_analysis_essay.pdf # Project summary and reflections
-├── README.md # You are here
+-  **churn_model.py:** Main ML pipeline (training, evaluation)
+-  **churn_analysis_essay.pdf:** Project summary and reflections
+-  **README.md** : You are here
